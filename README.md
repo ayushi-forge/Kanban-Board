@@ -1,61 +1,35 @@
-# 🚀 KanbanFlow - Advanced Project Management Board
+# 🗂️ Kanban Board
 
-<div align="center">
+A simple and interactive **Kanban Board** built using **HTML, CSS, and JavaScript** to manage tasks efficiently using the Kanban workflow.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/kanban-board)
-![GitHub code size](https://img.shields.io/github/languages/code-size/yourusername/kanban-board)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/kanban-board?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/kanban-board?style=social)
-![GitHub license](https://img.shields.io/github/license/yourusername/kanban-board)
+This project helps visualize tasks across different stages like **To Do**, **In Progress**, and **Done**.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://yourusername.github.io/kanban-board/)
-[![Open in Gitpod](https://img.shields.io/badge/Open%20in-Gitpod-blue?logo=gitpod)](https://gitpod.io/#https://github.com/yourusername/kanban-board)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+---
 
-**A sophisticated Kanban board built with pure JavaScript** • 
+## 🚀 Features
 
-## ✨ Features
+- ➕ Add new tasks
+- 📦 Move tasks between columns
+- 🗑️ Delete tasks
+- 🎯 Simple and clean UI
+- ⚡ Fast and lightweight (no frameworks)
 
-### 🎯 **Core Features**
-| Feature | Description | Status |
-|---------|-------------|--------|
-| 🎨 **Drag & Drop** | Intuitive task movement between columns | ✅ **Implemented** |
-| 📊 **Real-time Stats** | Visual analytics with Chart.js | ✅ **Implemented** |
-| 💾 **Local Storage** | Data persists across sessions | ✅ **Implemented** |
-| 🌙 **Dark/Light Mode** | Automatic theme detection | ✅ **Implemented** |
-| 📱 **Responsive Design** | Works on all devices | ✅ **Implemented** |
-
-### 🚀 **Advanced Features**
-| Feature | Description | Status |
-|---------|-------------|--------|
-| 🔍 **Smart Filtering** | Filter by status, priority & search | ✅ **Implemented** |
-| 📝 **Rich Task Management** | CRUD operations with metadata | ✅ **Implemented** |
-| 📤 **Export/Import** | JSON backup & restore | ✅ **Implemented** |
-| ⌨️ **Keyboard Shortcuts** | Boost productivity | ✅ **Implemented** |
-| 🔔 **Notifications** | Visual feedback system | ✅ **Implemented** |
+---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+- **HTML** – Structure
+- **CSS** – Styling & layout
+- **JavaScript** – Logic & interactivity
 
-| Frontend | Libraries | Tools |
-|----------|-----------|-------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
+---
 
-</div>
+## 📁 Project Structure
 
-## 🚀 Quick Start
-
-### Prerequisites
-- Modern web browser (Chrome, Firefox, Safari, Edge)
-- Git installed on your system
-- Basic knowledge of HTML, CSS, JavaScript
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/kanban-board.git
-   cd kanban-board
+```text
+Kanban-Board/
+│
+├── index.html      # Main HTML file
+├── style.css       # Stylesheet
+├── script.js       # JavaScript logic
+└── README.md       # Project documentation
