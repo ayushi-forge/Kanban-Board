@@ -14,18 +14,6 @@
 
 **A sophisticated Kanban board built with pure JavaScript** • 
 
-</div>
-
-## 📸 Preview
-
-<div align="center">
-  
-| Light Theme | Dark Theme | Mobile View |
-|-------------|------------|-------------|
-| ![Light Theme](https://via.placeholder.com/400x250/4361ee/ffffff?text=Light+Theme+Screenshot) | ![Dark Theme](https://via.placeholder.com/400x250/1a1a2e/e6e6e6?text=Dark+Theme+Screenshot) | ![Mobile View](https://via.placeholder.com/250x400/7209b7/ffffff?text=Mobile+View) |
-
-</div>
-
 ## ✨ Features
 
 ### 🎯 **Core Features**
