@@ -12,7 +12,7 @@
 [![Open in Gitpod](https://img.shields.io/badge/Open%20in-Gitpod-blue?logo=gitpod)](https://gitpod.io/#https://github.com/yourusername/kanban-board)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**A sophisticated Kanban board built with pure JavaScript** • **Perfect for GSOC 2026 Portfolio**
+**A sophisticated Kanban board built with pure JavaScript** • 
 
 </div>
 
